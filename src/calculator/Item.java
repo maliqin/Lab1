@@ -1,6 +1,7 @@
 package calculator;
 import java.util.*;
 /*ÐÞ¸Ä*/
+/*aaa*/
 public class Item {
 	ArrayList<String> variables;
 	HashMap<String, Integer> powers;
